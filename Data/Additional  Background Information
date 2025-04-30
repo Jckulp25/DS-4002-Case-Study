@@ -1,0 +1,5 @@
+The data for this case Study is sourced from IEEE Data Port, a research data platform designed to make scientific data in a wide variety of disciplines openly accessible. Some of these sets like this one are housed behind a subscription paywall. 
+
+The orginal data can be accessed via this link: https://ieee-dataport.org/documents/deepguarddb-real-and-text-image-synthetic-images-dataset. Along with the zip file itself, the webpage contains some useful meta data and descriptions to help you get a sense for what is in the dataset and how best to navigate it. 
+
+The link to the data provided in this folder takes you to our orginial project folder where we created to a Github Repo that allows uploading of files over the typical maximum size, organized by AI Generator, with sub files titled real and fake.   
