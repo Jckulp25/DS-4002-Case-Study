@@ -1,9 +1,9 @@
 # DS-4002-AI-Image-Detection_Case-Study
 
-#Overview
+Overview:
 This repository contains materials for a data science case study focused on Image data, specifically the mechanics of training a model to differentiate between artifically generated images and authentic ones. The project involves applying image processing techniques, specifically feature extraction or convelutional nueral networks, to uncover patterns which might not be identifible to the naked eye.
 
-#Repository Structure
+Repository Structure
 Data/: Contains a link to the orginal Github containing the large, full the dataset used for analysis.
 
 Sample Project Code/: Includes example Python scripts demonstrating data preprocessing, model training, and visualization techniques our group used during our iteration of the project.
@@ -38,7 +38,7 @@ Navigate to the Data/ directory to examine the dataset.
 Run Sample Code:
 Refer to the Sample Project Code/ directory for example scripts on data preprocessing and topic modeling.
 
-#Project Objectives
+#Project-Objectives
 Preprocess, clean and conduct EDA on the Image dataset.
 
 Create the most efficent, effective model to identify real or artifical image categories, this could be feature extracting, cnn, or hybrid approaches to the problem.
@@ -48,7 +48,7 @@ Visualize and interpret the model results, evaluating model performance.
 Compose a coherent, logical report on your findings including a serious reflection on the whole process as outlined in the Indruction and Rubric Documents.
 
 
-#Resources
+Resources
 For an introduction to topic modeling and LDA, refer to the materials in the Additional Materials/ directory.
 
 The DS 4002 Case Study Instructions (Hook) Document.pdf provides a detailed overview of the case study's goals.
