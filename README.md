@@ -26,7 +26,8 @@ git clone https://github.com/Jckulp25/DS-4002-Case-Study.git
 cd DS-4002-Case-Study
 Set Up the Environment:
 Ensure you have Python 3.x installed. It's recommended to use a virtual environment:
-
+```
+```python
 bash
 Copy
 Edit
