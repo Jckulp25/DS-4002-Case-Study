@@ -18,6 +18,7 @@ DS 4002 Case Study Rubric.pdf: Outlines the evaluation criteria for the case stu
 ## **Getting Started**
 Clone the Repository:
 
+```python
 bash
 Copy
 Edit
@@ -34,7 +35,7 @@ source env/bin/activate  # On Windows: env\Scripts\activate
 pip install -r requirements.txt
 Explore the Data:
 Navigate to the Data/ directory to examine the dataset.
-
+```
 Run Sample Code:
 Refer to the Sample Project Code/ directory for example scripts on data preprocessing and topic modeling.
 
