@@ -57,6 +57,6 @@ The DS 4002 Case Study Instructions (Hook) Document.pdf provides a detailed over
 
 Evaluation criteria are detailed in the DS 4002 Case Study Rubric.pdf.
 
-#License
+License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
