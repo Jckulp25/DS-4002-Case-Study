@@ -1,6 +1,6 @@
 # DS-4002-AI-Image-Detection_Case-Study
 
-Overview:
+**Overview:**
 This repository contains materials for a data science case study focused on Image data, specifically the mechanics of training a model to differentiate between artifically generated images and authentic ones. The project involves applying image processing techniques, specifically feature extraction or convelutional nueral networks, to uncover patterns which might not be identifible to the naked eye.
 
 Repository Structure
